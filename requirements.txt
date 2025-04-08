@@ -1,0 +1,6 @@
+streamlit
+openai
+elevenlabs
+SpeechRecognition
+pydub
+st-audiorec
